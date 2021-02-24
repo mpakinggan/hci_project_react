@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hci_project_react/static/css/main.5b53d5eb.chunk.css",
+    "main.js": "/hci_project_react/static/js/main.1cd0a50f.chunk.js",
+    "main.js.map": "/hci_project_react/static/js/main.1cd0a50f.chunk.js.map",
+    "runtime-main.js": "/hci_project_react/static/js/runtime-main.4ad75ee5.js",
+    "runtime-main.js.map": "/hci_project_react/static/js/runtime-main.4ad75ee5.js.map",
+    "static/js/2.3e0a57ad.chunk.js": "/hci_project_react/static/js/2.3e0a57ad.chunk.js",
+    "static/js/2.3e0a57ad.chunk.js.map": "/hci_project_react/static/js/2.3e0a57ad.chunk.js.map",
+    "static/js/3.19868e44.chunk.js": "/hci_project_react/static/js/3.19868e44.chunk.js",
+    "static/js/3.19868e44.chunk.js.map": "/hci_project_react/static/js/3.19868e44.chunk.js.map",
+    "index.html": "/hci_project_react/index.html",
+    "static/css/main.5b53d5eb.chunk.css.map": "/hci_project_react/static/css/main.5b53d5eb.chunk.css.map",
+    "static/js/2.3e0a57ad.chunk.js.LICENSE.txt": "/hci_project_react/static/js/2.3e0a57ad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ad75ee5.js",
+    "static/js/2.3e0a57ad.chunk.js",
+    "static/css/main.5b53d5eb.chunk.css",
+    "static/js/main.1cd0a50f.chunk.js"
+  ]
+}
