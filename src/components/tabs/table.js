@@ -13,7 +13,7 @@ function Tabledata() {
                         <th>Year</th>
                     </tr>
                     <tr>
-                        <td><a href="text.html">CS185 Project</a></td>
+                        <td><a href="https://mpakinggan.github.io/HCI__Project/">CS185 Project 2</a></td>
                         <td>Website layout designing and basic styling for CS 185 Spring 2021.</td>
                         <td>2021</td>
                     </tr>
